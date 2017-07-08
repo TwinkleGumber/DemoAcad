@@ -1,1 +1,8 @@
-asdf
+Create a dir / local repo
+	Put files in it
+	call git init -- > to initialise local repo
+	git add <filenames> to add those files to local repo for monitoring
+
+	git add remote <name of online remote> <name of branch >
+
+	git push -u  <name of online remote> <name of branch >
